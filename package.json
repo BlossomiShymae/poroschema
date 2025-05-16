@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate.js"
+    "generate": "node scripts/generate.js",
+    "generate-libraries": "node scripts/generate-libraries.js"
   },
   "author": "",
   "license": "ISC",
